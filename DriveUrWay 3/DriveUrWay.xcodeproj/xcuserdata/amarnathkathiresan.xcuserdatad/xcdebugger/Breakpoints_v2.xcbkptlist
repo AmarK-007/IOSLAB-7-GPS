@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "519A8108-77F9-4706-9A6C-2C8DA676B533"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CBFE49A-5D8C-4077-82FA-6499BD88FEC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CBFE49A-5D8C-4077-82FA-6499BD88FEC1 - e17bb39766d8da4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "0CBFE49A-5D8C-4077-82FA-6499BD88FEC1 - e17bb39766d8140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE121233-E8F1-49EB-870F-457F7802318F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE121233-E8F1-49EB-870F-457F7802318F - a2b62b7415e88f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "AE121233-E8F1-49EB-870F-457F7802318F - a2b62b7415e88e7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "AE121233-E8F1-49EB-870F-457F7802318F - a2b62b7415e88e7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "AE121233-E8F1-49EB-870F-457F7802318F - a2b62b7415e8833e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C84D1263-AC83-4A79-A06E-A94C8F74694B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C84D1263-AC83-4A79-A06E-A94C8F74694B - a2b62b7415e880f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "C84D1263-AC83-4A79-A06E-A94C8F74694B - a2b62b7415e885aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABE97833-1443-45CA-8DBC-C877CED85CB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABE97833-1443-45CA-8DBC-C877CED85CB1 - a2b62b7415e88ee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "ABE97833-1443-45CA-8DBC-C877CED85CB1 - a2b62b7415e88ee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "ABE97833-1443-45CA-8DBC-C877CED85CB1 - a2b62b7415e883d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "openSettingsPage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94c5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "AE57CF1E-A369-44C1-9399-08A5BFF1111B - 3c9d769f5bf94c5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DriveUrWay.TripSummaryViewController.opensettingsPage() -&gt; ()"
+                  moduleName = "DriveUrWay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amarnathkathiresan/Desktop/IOS%20CLASS/Week10/DriveUrWay/DriveUrWay/TripSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0112E838-8D2B-4A88-9D61-43F49639F14E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveUrWay/TripSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "TripSummaryViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
